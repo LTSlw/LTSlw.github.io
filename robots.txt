@@ -1,0 +1,35 @@
+User-agent: *
+
+Disallow: /posts/notice/
+
+Disallow: /categories/cat_test/
+
+Disallow: /
+
+Disallow: /posts/
+
+Disallow: /series/ser_test/
+
+Disallow: /tags/tag_test_a/
+
+Disallow: /tags/tag_test_b/
+
+Disallow: /posts/test/
+
+Disallow: /series/
+
+Disallow: /categories/
+
+Disallow: /tags/
+
+Disallow: /about/
+
+Disallow: /offline/
+
+Disallow: /faq/
+
+Disallow: /archives/
+
+Disallow: /search/
+
+Disallow: /contact/
