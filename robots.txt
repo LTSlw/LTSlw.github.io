@@ -26,8 +26,6 @@ Disallow: /about/
 
 Disallow: /offline/
 
-Disallow: /faq/
-
 Disallow: /archives/
 
 Disallow: /search/
