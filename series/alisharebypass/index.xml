@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on LTSlw&#39;s Blog</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on LTSlw&#39;s Blog</description>
+    <title>AliShareBypass on LTSlw&#39;s Blog</title>
+    <link>/series/alisharebypass/</link>
+    <description>Recent content in AliShareBypass on LTSlw&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2022-{year} LTSlw. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 13 Aug 2022 22:18:02 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>公告</title>
-      <link>/posts/notice/</link>
-      <pubDate>Sun, 01 May 2022 13:42:12 +0800</pubDate>
-      
-      <guid>/posts/notice/</guid>
-      <description>Welcome 欢迎来到我的博客。 Tips 请遵守本站内容分享协议。本站内容一般遵循CC BY-NC-SA 4.0协议共享，少数页面和引用内容可能存在例外，请尊重原作者。</description>
-    </item>
-    
+    <lastBuildDate>Sat, 13 Aug 2022 22:18:02 +0800</lastBuildDate><atom:link href="/series/alisharebypass/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AliShareBypass</title>
       <link>/posts/alisharebypass/</link>
